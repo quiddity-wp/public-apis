@@ -146,7 +146,7 @@ API | Description | Auth | HTTPS | Link |
 | Scoop.it | Content Curation Service | `apiKey` | No | [Go!](http://www.scoop.it/dev) |
 | Teleport | Quality of Life Data | No | Yes | [Go!](https://developers.teleport.org/) |
 | UPC database | More than 1.5 million barcode numbers from all around the world | `apiKey` | Yes | [Go!](https://upcdatabase.org/api) |
-| Wikipedia | Mediawiki Encyclopedia | No | Yes | [Go!](https://www.mediawiki.org/wiki/API:Main_page) |
+| Wikimedia | Wikipedia, Wikidata, and other Wikimedia projects | No | Yes | [Go!](https://www.mediawiki.org/wiki/API:Main_page) |
 | Wordnik | Dictionary Data | No | No | [Go!](http://developer.wordnik.com) |
 | Yelp | Find Local Business | `OAuth` | Yes | [Go!](https://www.yelp.com/developers/documentation/v3) |
 
